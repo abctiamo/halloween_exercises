@@ -1,0 +1,76 @@
+#content{
+    display:flex;
+}
+
+/* #copyright{
+    font-size: 10px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+} */
+
+/* #outBox{
+    background-image: url('../images/bats.gif');
+    height: 100%;
+    width: 100%;
+} */
+/* #mainBox{
+    width: 800px;
+    border: 3px solid #000;
+    box-shadow: 8px 8px 5px #000;
+    margin: 0 auto;
+    background-color: #fff;
+} */
+/* #header{
+    background: linear-gradient(45deg, #fff 0%,orange 75%,#000);
+}
+#headerImg{
+    float: left;
+    margin-right: 20px;
+}
+#headerTitle2{
+    font-size: 36px;
+    margin: 0;
+    /* color: orange;
+    font-style:italic;
+    text-shadow: 1.5px 1.5px #000; 
+}
+h3{
+    margin: 0;
+} */
+/* a{
+    color: orange;
+    font-weight: bold;
+    display: block;
+}
+a:hover{
+    color: green;
+}
+h1:first-letter{
+    font-size: 60px;
+}
+.mainLi{
+    margin: 5px 0;
+}
+
+#footer{
+    height: 35px;
+    background: linear-gradient(45deg,#000,orange 25%,#fff);
+}
+
+.split{
+    height: 4px;
+    width: 100%;
+    background-color: #000;
+}
+#content{
+    display: flex;
+    width:100%
+}
+#siderBar{
+    width: 160px;
+    padding-top: 20px;
+}
+#mainContent{
+    width: 640px;
+} */
